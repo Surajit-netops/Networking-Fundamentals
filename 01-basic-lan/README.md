@@ -26,7 +26,7 @@ Create a basic Local Area Network (LAN) using one Cisco switch and two PCs. Conf
 ## Verification
 
 ```text
-ping 192.168.1.3
+ping 192.168.10.3
 ```
 
 Expected result: Successful replies with 0% packet loss.
