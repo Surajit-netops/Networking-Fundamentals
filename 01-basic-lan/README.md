@@ -6,7 +6,7 @@ Create a basic Local Area Network (LAN) using one Cisco switch and two PCs. Conf
 
 ## Devices Used
 - 1 Cisco 2960 Switch
-- 2 PCs
+- 3 PCs
 - Copper straight-through cables
 
 ## IP Addressing Plan
